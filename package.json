@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "express": "^4.16.4",
+    "serve-favicon": "^2.5.0",
     "serverless-http": "^1.9.0"
   },
   "devDependencies": {

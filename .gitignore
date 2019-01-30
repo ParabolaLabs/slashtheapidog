@@ -1,6 +1,7 @@
 resources
 tmp
 node_modules
+*.DS_Store
 
 #SERVERLESS STUFF
 admin.env
