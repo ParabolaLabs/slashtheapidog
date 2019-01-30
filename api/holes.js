@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
-const holes = require('./db/holes.json');
-const { buildResult, getItem } = require('./helpers');
+const holes = require('../db/holes.json');
+const { buildResult, getItem } = require('./utils/helpers');
 
 router.get('/', function(req, res) {
   res.json(buildResult(holes.data));

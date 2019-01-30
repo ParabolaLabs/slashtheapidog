@@ -2,9 +2,10 @@ const serverless = require('serverless-http');
 const bodyParser = require('body-parser');
 const path = require('path');
 const express = require('express');
-const balls = require('./balls');
-const bones = require('./bones');
-const holes = require('./holes');
+
+const balls = require('./api/balls');
+const bones = require('./api/bones');
+const holes = require('./api/holes');
 
 const app = express();
 app.use(bodyParser.json({ strict: false }));

@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
-const bones = require('./db/bones.json');
-const { buildResult, getItem } = require('./helpers');
+const bones = require('../db/bones.json');
+const { buildResult, getItem } = require('./utils/helpers');
 
 router.get('/', function(req, res) {
   res.json(buildResult(bones.data));
