@@ -1,0 +1,9 @@
+resources
+tmp
+node_modules
+
+#SERVERLESS STUFF
+admin.env
+.env
+_meta
+.serverless

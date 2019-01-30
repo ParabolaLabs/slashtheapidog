@@ -1,0 +1,25 @@
+service: slashtheapidog
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+  stage: production
+  region: us-west-2
+
+functions:
+  app:
+    handler: index.handler
+    events:
+      - http: ANY /
+      - http: 'ANY {proxy+}'
+
+custom:
+  customDomain:
+    domainName: slashtheapidog.com
+    basePath: ''
+    stage: ${self:provider.stage}
+    createRoute53Record: true
+
+plugins:
+  - serverless-offline
+  - serverless-domain-manager

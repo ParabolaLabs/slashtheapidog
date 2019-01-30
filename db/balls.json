@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "color": "blue",
+      "material": "rubber",
+      "size": 5,
+      "squeaks": true
+    },
+    {
+      "id": 2,
+      "color": "yellow",
+      "material": "tennis",
+      "size": 9,
+      "squeaks": false
+    },
+    {
+      "id": 3,
+      "color": "green",
+      "material": "tennis",
+      "size": 3,
+      "squeaks": false
+    },
+    {
+      "id": 4,
+      "color": "red",
+      "material": "plastic",
+      "size": 13,
+      "squeaks": true
+    }
+  ]
+}

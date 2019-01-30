@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "age": 2,
+      "material": "beef",
+      "size": 10,
+      "remainder": "34%",
+      "slashs_notes": "This one tastes yummy"
+    },
+    {
+      "id": 2,
+      "age": 1,
+      "material": "bone",
+      "size": 7,
+      "remainder": "84%",
+      "slashs_notes": "Hard on my teeth"
+    },
+    {
+      "id": 3,
+      "age": 4,
+      "material": "plastic",
+      "size": 13,
+      "remainder": "4%",
+      "slashs_notes": "It used to smell like turkey, but thats gone now..."
+    },
+    {
+      "id": 4,
+      "age": 1,
+      "material": "raw-hide",
+      "size": 7,
+      "remainder": "29%",
+      "slashs_notes": "Chewy!"
+    }
+  ]
+}
