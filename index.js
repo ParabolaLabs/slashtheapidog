@@ -4,6 +4,7 @@ const path = require('path');
 const express = require('express');
 const favicon = require('serve-favicon');
 
+const appointments = require('./api/appointments');
 const balls = require('./api/balls');
 const bones = require('./api/bones');
 const holes = require('./api/holes');
@@ -16,6 +17,7 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'static', 'index.html'));
 });
 
+app.use('/api/appointments', appointments);
 app.use('/api/balls', balls);
 app.use('/api/bones', bones);
 app.use('/api/holes', holes);

@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "Name": "Otter the Goldendoodle",
+      "Appointment Time": "3:00 PM",
+      "Customer Since": 2017,
+      "Favorite Toys": "Lamb Chop Plush Toy, Loopy Hedgehog 6 Squeaker, Pack of 12 Tennis Balls, Otter Plush Toy",
+      "Visits": 6
+    },
+    {
+      "Name": "Napoleon the Pug",
+      "Appointment Time": "2:00 PM",
+      "Customer Since": 2012,
+      "Favorite Toys": "Plush Frog Dog Toy, Rope Tug of War, Benji the Bouncing Tiger",
+      "Visits": 21
+    },
+    {
+      "Name": "Porgi the Corgi",
+      "Appointment Time": "4:30 PM",
+      "Customer Since": 2018,
+      "Favorite Toys": "KONG Classic Dog Toy, Otter Plush Toy, Ultra Rubber Ball - 2 Pack",
+      "Visits": 3
+    },
+    {
+      "Name": "Blue the Labradoodle",
+      "Appointment Time": "2:15 PM",
+      "Customer Since": 2017,
+      "Favorite Toys": "Cozie Marvin the Moose Plush Toy, Andi's Famous Plush Dumplings, Zingy No Stuffing 3 Squeaker Plush Toy",
+      "Visits": 6
+    },
+    {
+      "Name": "Peaches the Pit Bull",
+      "Appointment Time": "10:00 AM",
+      "Customer Since": 2015,
+      "Favorite Toys": "Lamb Chop Plush Toy, Andi's Famous Plush Dumplings, DuraChew Double Bone Bacon Flavor",
+      "Visits": 12
+    },
+    {
+      "Name": "Sam the Golden Retriever",
+      "Appointment Time": "12:00 PM",
+      "Customer Since": 2000,
+      "Favorite Toys": "Friends Fur-ever Toy, Loopy Hedgehog 6 Squeaker, Benji the Bouncing Tiger",
+      "Visits": 57
+    },
+    {
+      "Name": "Mitsi the Beagle",
+      "Appointment Time": "9:00 AM",
+      "Customer Since": 2001,
+      "Favorite Toys": "Plush Frog Dog Toy, Cozy Bailey the Blue, Emojiz Squeaky Plush Dog Toy",
+      "Visits": 54
+    },
+    {
+      "Name": "Jet the Aussie",
+      "Appointment Time": "9:30 AM",
+      "Customer Since": 2016,
+      "Favorite Toys": "KONG Classic Dog Toy, Treat Dispensing Chew Ball Dog Toy, Latex Polka Dot Globken Chicken Dog Toy",
+      "Visits": 9
+    },
+    {
+      "Name": "Elsa the Yellow Lab",
+      "Appointment Time": "11:30 AM",
+      "Customer Since": 2003,
+      "Favorite Toys": "Full o' Fluff Pinata, DuraChew Peanut Butter Flavor, Ultra Rubber Ball - 2 Pack",
+      "Visits": 48
+    },
+    {
+      "Name": "Bailey the Cockapoo",
+      "Appointment Time": "8:30 AM",
+      "Customer Since": 2008,
+      "Favorite Toys": "Friends Fur-ever Toy, Otter Plush Toy, DuraChew Peanut Butter Flavor",
+      "Visits": 33
+    },
+    {
+      "Name": "Patches the Hound",
+      "Appointment Time": "1:00 PM",
+      "Customer Since": 2012,
+      "Favorite Toys": "KONG Classic Dog Toy, Cozy Bailey the Blue, HedgehogZ Plush Toy",
+      "Visits": 21
+    },
+    {
+      "Name": "Angie the Cockerspaniel",
+      "Appointment Time": "2:30 PM",
+      "Customer Since": 2014,
+      "Favorite Toys": "Full o' Fluff Pinata, Benji the Bouncing Tiger, Latex Polka Dot Globken Chicken Dog Toy",
+      "Visits": 15
+    },
+    {
+      "Name": "Spotty the Dalmation",
+      "Appointment Time": "10:00 AM",
+      "Customer Since": 2018,
+      "Favorite Toys": "Lamb Chop Plush Toy, Treat Dispensing Chew Ball Dog Toy, Heat Eye Emoji Dog Toy",
+      "Visits": 3
+    },
+    {
+      "Name": "Simon the Schnauzer",
+      "Appointment Time": "1:30 PM",
+      "Customer Since": 2019,
+      "Favorite Toys": "Releash the Karken!, Andi's Famous Plush Dumplings, Emojiz Squeaky Plush Dog Toy",
+      "Visits": 0
+    },
+    {
+      "Name": "Bilbo the Great",
+      "Appointment Time": "12:15 PM",
+      "Customer Since": 2006,
+      "Favorite Toys": "KONG Classic Dog Toy, Dynos T-Rex Dog Toy, HedgehogZ Plush Toy",
+      "Visits": 39
+    },
+    {
+      "Name": "Sage the Poodle",
+      "Appointment Time": "3:00 PM",
+      "Customer Since": 2008,
+      "Favorite Toys": "Releash the Karken!, Lady Liberty Ball, Emojiz Squeaky Plush Dog Toy",
+      "Visits": 33
+    },
+    {
+      "Name": "Reggie the Sheepdog",
+      "Appointment Time": "10:45 AM",
+      "Customer Since": 2012,
+      "Favorite Toys": "Lamb Chop Plush Toy, Dynos T-Rex Dog Toy, Heat Eye Emoji Dog Toy",
+      "Visits": 21
+    },
+    {
+      "Name": "Wylie the Wolf",
+      "Appointment Time": "12:30 PM",
+      "Customer Since": 2019,
+      "Favorite Toys": "Cozie Marvin the Moose Plush Toy, Treat Dispensing Chew Ball Dog Toy, Heat Eye Emoji Dog Toy",
+      "Visits": 0
+    },
+    {
+      "Name": "Duke the Terrier",
+      "Appointment Time": "3:15 PM",
+      "Customer Since": 2015,
+      "Favorite Toys": "Rope Tug of War, Pack of 12 Tennis Balls, Andi's Famous Plush Dumplings",
+      "Visits": 12
+    },
+    {
+      "Name": "Gunner the Greyhound",
+      "Appointment Time": "11:00 AM",
+      "Customer Since": 2016,
+      "Favorite Toys": "Lamb Chop Plush Toy, Lady Liberty Ball, DuraChew Peanut Butter Flavor, Treat Dispensing Chew Ball Dog Toy",
+      "Visits": 9
+    }
+  ]
+}
